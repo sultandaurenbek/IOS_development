@@ -118,28 +118,28 @@ class ViewController: UIViewController {
     
        override func viewDidLoad() {
         // Design making circle buttons
-        acbutton.layer.cornerRadius = 30
-        randbutton.layer.cornerRadius = 30
-         pibutton.layer.cornerRadius = 30
-         xybutton.layer.cornerRadius = 30
-         xbutton.layer.cornerRadius = 30
-         probutton.layer.cornerRadius = 30
-         rootbutton.layer.cornerRadius = 30
-         dividebutton.layer.cornerRadius = 30
-         sevenbutton.layer.cornerRadius = 30
-         eightbutton.layer.cornerRadius = 30
-         ninebutton.layer.cornerRadius = 30
-         fourbutton.layer.cornerRadius = 30
-         fivebutton.layer.cornerRadius = 30
-         sixbutton.layer.cornerRadius = 30
-         onebutton.layer.cornerRadius = 30
-         twobutton.layer.cornerRadius = 30
-         threebutton.layer.cornerRadius = 30
-         zerobutton.layer.cornerRadius = 30
-         multibutton.layer.cornerRadius = 30
-         minusbutton.layer.cornerRadius = 30
-         equalbutton.layer.cornerRadius = 30
-         plusbutton.layer.cornerRadius = 30
+        acbutton.layer.cornerRadius = 20
+        randbutton.layer.cornerRadius = 20
+         pibutton.layer.cornerRadius = 20
+         xybutton.layer.cornerRadius = 20
+         xbutton.layer.cornerRadius = 20
+         probutton.layer.cornerRadius = 20
+         rootbutton.layer.cornerRadius = 20
+         dividebutton.layer.cornerRadius = 20
+         sevenbutton.layer.cornerRadius = 20
+         eightbutton.layer.cornerRadius = 20
+         ninebutton.layer.cornerRadius = 20
+         fourbutton.layer.cornerRadius = 20
+         fivebutton.layer.cornerRadius = 20
+         sixbutton.layer.cornerRadius = 20
+         onebutton.layer.cornerRadius = 20
+         twobutton.layer.cornerRadius = 20
+         threebutton.layer.cornerRadius = 20
+         zerobutton.layer.cornerRadius = 20
+         multibutton.layer.cornerRadius = 20
+         minusbutton.layer.cornerRadius = 20
+         equalbutton.layer.cornerRadius = 20
+         plusbutton.layer.cornerRadius = 20
         
         
         
