@@ -16,7 +16,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NBb-TW-xWr">
-                                <rect key="frame" x="8" y="577" width="172" height="60"/>
+                                <rect key="frame" x="8" y="577" width="171.5" height="60"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="37"/>
                                 <state key="normal" title="0">
@@ -354,7 +354,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Alq-cb-5Am" secondAttribute="trailing" constant="16" id="smW-Wn-V7H"/>
                             <constraint firstItem="eew-ML-WUW" firstAttribute="width" secondItem="Alq-cb-5Am" secondAttribute="width" multiplier="1/4" id="upR-oO-sjY"/>
                             <constraint firstItem="ddG-he-xsc" firstAttribute="height" secondItem="XLb-KJ-7O2" secondAttribute="height" id="w3G-Wu-ahv"/>
-                            <constraint firstItem="Alq-cb-5Am" firstAttribute="leading" secondItem="XLb-KJ-7O2" secondAttribute="trailing" constant="-78" id="wOc-QE-Wcx"/>
                             <constraint firstItem="Mhg-QK-Woz" firstAttribute="width" secondItem="Alq-cb-5Am" secondAttribute="width" multiplier="1/4" id="wr8-3J-lnh"/>
                             <constraint firstItem="J3M-NB-fZ0" firstAttribute="height" secondItem="XLb-KJ-7O2" secondAttribute="height" multiplier="0.991736" id="x0R-71-li3"/>
                             <constraint firstItem="abK-kB-VOd" firstAttribute="width" secondItem="XLb-KJ-7O2" secondAttribute="width" id="ypa-Xt-IJf"/>
