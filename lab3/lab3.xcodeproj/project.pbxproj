@@ -15,6 +15,7 @@
 		D577C992240A8CD4001CEACB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D577C990240A8CD4001CEACB /* LaunchScreen.storyboard */; };
 		D577C99D240A8CD4001CEACB /* lab3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D577C99C240A8CD4001CEACB /* lab3Tests.swift */; };
 		D577C9A8240A8CD4001CEACB /* lab3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D577C9A7240A8CD4001CEACB /* lab3UITests.swift */; };
+		D577C9B8240A96B1001CEACB /* CreateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D577C9B7240A96B1001CEACB /* CreateViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D577C9A3240A8CD4001CEACB /* lab3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lab3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D577C9A7240A8CD4001CEACB /* lab3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab3UITests.swift; sourceTree = "<group>"; };
 		D577C9A9240A8CD4001CEACB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D577C9B7240A96B1001CEACB /* CreateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D577C98E240A8CD4001CEACB /* Assets.xcassets */,
 				D577C990240A8CD4001CEACB /* LaunchScreen.storyboard */,
 				D577C993240A8CD4001CEACB /* Info.plist */,
+				D577C9B7240A96B1001CEACB /* CreateViewController.swift */,
 			);
 			path = lab3;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D577C9B8240A96B1001CEACB /* CreateViewController.swift in Sources */,
 				D577C98A240A8CD2001CEACB /* ViewController.swift in Sources */,
 				D577C986240A8CD2001CEACB /* AppDelegate.swift in Sources */,
 				D577C988240A8CD2001CEACB /* SceneDelegate.swift in Sources */,
